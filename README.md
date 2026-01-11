@@ -14,6 +14,18 @@ I build hybrid AI systems that bridge the gap between unstructured data and prod
 - **The Stack:** Python, LangChain, OpenAI/Local LLMs, Vector Search.
 - [View Article](https://tseguin715.github.io/rag-complexity-paradox/) | [View Code](https://github.com/tseguin715/rag-complexity-paradox)
 
+**[Profit-Optimized Purchasing Behavior](https://github.com/tseguin715/Online-Purchasing-Behavior)**
+*Converting e-commerce churn predictions into a profit maximization engine.*
+- **The Strategy:** Instead of standard accuracy metrics, I optimized decision thresholds against a custom cost/benefit matrix (accounting for inventory carrying costs vs. lost sales).
+- **The Impact:** Achieved **12% higher profitability** than the baseline Random Forest model by tuning for financial outcomes rather than raw precision.
+- **The Stack:** XGBoost, SHAP, Scikit-learn, Feature Engineering.
+- [View Code](https://github.com/tseguin715/Online-Purchasing-Behavior)
+
+**[The X-Files: Data & Statistics](https://github.com/tseguin715/The-X-Files-Insights-from-Data)**
+*A statistical deep-dive into TV ratings, metadata, and script analysis.*
+- **The Analysis:** Applied **Mann-Whitney U-tests** and multivariate Gaussian smoothing (3D Surface Plots) to statistically rank seasons and quantify the "Mythology episode" premium.
+- **The Stack:** Web Scraping, SciPy (Statistical Testing), Matplotlib/Seaborn, NLP.
+- [View Code](https://github.com/tseguin715/The-X-Files-Insights-from-Data)
 
 ---
 
