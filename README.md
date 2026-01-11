@@ -2,7 +2,7 @@
 
 **Data Scientist | Ph.D. in Computational Chemistry**
 
-I build hybrid AI systems that bridge the gap between unstructured data and production value. My work focuses on rigorous evaluation of LLM architectures and engineering features that drive measurable business outcomes.
+I combine deep technical research with practical engineering to turn complex data into business value. My expertise spans the full data science lifecycle, from statistical modeling and Bayesian optimization to deploying agentic AI systems in production.
 
 ---
 
